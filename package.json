@@ -1,6 +1,6 @@
 {
   "name": "react-router-0135",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Older version of React Router for installation alongside another react-router version.",
   "main": "react-router-0135.js",
   "scripts": {
