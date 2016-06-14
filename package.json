@@ -1,0 +1,19 @@
+{
+  "name": "react-router-0135",
+  "version": "0.0.0",
+  "description": "Older version of React Router for installation alongside another react-router",
+  "main": "react-router-0135.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/banzai-inc/react-router-0135.git"
+  },
+  "homepage": "https://github.com/banzai-inc/react-router-0135",
+  "dependencies": {
+    "react-router": "0.13.5"
+  }
+}
